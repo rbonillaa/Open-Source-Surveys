@@ -24,7 +24,7 @@ Answer the following questions to the best of your knowledge.
 
 3. What is the reason for this message to appear? (replece these reasons with your own)
    * Operating system error
-   * Expired digital certificated
+   * Expired digital certificate
    * Network error
    * Browser configuration issue
 
